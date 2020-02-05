@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println(x*y); //this one is ok
 
-        //short z = x * y;    this one will cause compile error(on arithmetic operation short is casted to int by default)
+        //short z =x * y;    //this one will cause compile error(on arithmetic operation short is casted to int by default)
 
         int x1;
         int y1 = (x1 = 3);

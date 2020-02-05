@@ -15,6 +15,8 @@ public class Main {
         //short z =x * y;    //this one will cause compile error(on arithmetic operation short is casted to int by default)
 
         int x1;
+        int x12;
+        int x31;
         int y1 = (x1 = 3);
         System.out.println(x1 + ":" + y1);
 

@@ -23,7 +23,7 @@ public class Main {
         System.out.println(x*y); //this one is ok
 
         //short z =x * y;    //this one will cause compile error(on arithmetic operation short is casted to int by default)
-
+git push
         int x1;
         int x12;
         int x31;
